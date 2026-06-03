@@ -1,4 +1,4 @@
-# Linear Regression Notebook Summary
+# Linear Regression
 
 This project builds a multiple linear regression model to predict house prices using the dataset in `Housing.csv`, as documented in `linear-regression.ipynb`.
 
